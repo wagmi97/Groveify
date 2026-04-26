@@ -7,7 +7,6 @@
 
 Welcome to Groveify! This repository contains the source code and documentation for Groveify, a project made for DevSoc Training Program. Groveify provides users with an interactive and visually appealing way to engage with productivity through an AI-Powered isometric map that grows as you do tasks.
 
-> ⚠️ Groveify is not affiliated with any cryptocurrency, NFT, or similar. Be careful to avoid scams. Groveify and its developers do not have an associated Twitter account.
 
 ## Features
 
